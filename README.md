@@ -11,4 +11,4 @@ Implement the following changes:<br>
 6.	Use jQuery AJAX methods to access the Web Service API and update the page with the outcome of the game and current statistics without reloading the page
 
 
-__Status:__ Attempted all steps. Steps 1-3 were successful.
+__Status:__ Under construction. Attempted all steps. Steps 1-3 were successful.
